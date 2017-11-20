@@ -1,1 +1,1 @@
-This project has moved to github.com/sropelato/LightDOM.
+This project has moved to <https://github.com/sropelato/LightDOM>.
